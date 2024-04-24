@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FifteenPuzzle": {
+      "commandName": "Project",
+      "commandLineArgs": "astr\r\nhamm\r\n\"C:\\Users\\habso\\Documents\\Pl\\SISE\\Puzzles 4x4\\4x4_01_00002.txt\"\r\n\"C:/Users/habso/Documents/Pl/SISE/sol.txt\"\r\n\"C:/Users/habso/Documents/Pl/SISE/stats.txt\""
+    }
+  }
+}
